@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/LeftRotationArray/.vs/LeftRotationArray
+/LeftRotationArray/bin/Debug/netcoreapp3.1
+/LeftRotationArray/obj
